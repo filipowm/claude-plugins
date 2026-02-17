@@ -1,0 +1,47 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Language-specific
+node_modules/
+*.pyc
+__pycache__/
+venv/
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.env
+
+# Test output
+*.log
+coverage/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+*.tar.gz
+*.zip
+*.jar
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Claude Code
+.claude/
