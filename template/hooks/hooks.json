@@ -1,0 +1,4 @@
+{
+  "pre-submit": "./hooks/scripts/pre-submit.sh",
+  "post-submit": "./hooks/scripts/post-submit.sh"
+}
