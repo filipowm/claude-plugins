@@ -1,0 +1,13 @@
+{
+  "name": "filipowm-plugins",
+  "owner": {
+    "name": "Mateusz Filipowicz",
+    "email": "mateusz@filipowicz.net"
+  },
+  "metadata": {
+    "description": "Custom Claude Code plugins by Mateusz",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
