@@ -1,12 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-code-superpowers",
+  "name": "claude-plugins",
+  "description": "Custom Claude Code plugins by Mateusz",
   "owner": {
     "name": "Mateusz Filipowicz"
-  },
-  "metadata": {
-    "description": "Custom Claude Code plugins by Mateusz",
-    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
