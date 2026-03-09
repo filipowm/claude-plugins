@@ -1,5 +1,4 @@
 ---
-name: create-agent
 description: 'Use PROACTIVELY when user wants to create, design, or build a new Claude Code custom subagent. Guides through interactive design phases.'
 argument-hint: [agent-name] ["brief description"]
 disable-model-invocation: true
