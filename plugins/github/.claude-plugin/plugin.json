@@ -1,0 +1,10 @@
+{
+  "name": "github",
+  "description": "Skills and tools for common GitHub operations: PRs, issues, code reviews, actions. Built around GitHub CLI (gh).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mateusz Filipowicz"
+  },
+  "license": "MIT",
+  "keywords": ["github", "pr", "issues", "code-review", "gh-cli"]
+}
